@@ -1,4 +1,5 @@
 # LC_Utilities
+- [Download Latest Here](https://codeload.github.com/DrevilYT/LC-Utilities/zip/refs/heads/main)
 
 # Requirements
 - [BepInEx](https://github.com/BepInEx/BepInEx/releases/download/v5.4.22/BepInEx_x64_5.4.22.0.zip)
