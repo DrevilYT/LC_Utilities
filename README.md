@@ -1,5 +1,5 @@
 # LC_Utilities
-A modification and optimization for the game, Lethal Company. Made by Drevil. Worked on integrated graphics and only 4gb ram.
+- A modification and optimization for the game, Lethal Company. Made by Drevil. Worked on integrated graphics and only 4gb ram.
 
 # Uses
 - BepInEx
@@ -15,6 +15,6 @@ A modification and optimization for the game, Lethal Company. Made by Drevil. Wo
 - [HDLethalCompany Mod Config File](https://raw.githubusercontent.com/DrevilYT/LC_Utilities/main/Config/HDLethalCompany.cfg?dl=1)
 
 # Credits
-- [DrevilYT](https://github.com/DrevilYT/)
-- [Sligilli](https://thunderstore.io/c/lethal-company/p/Sligili/)
-- [BepInEx](https://github.com/BepInEx/)
+- [DrevilYT](https://github.com/DrevilYT/) - Making this whole thing, HDLethalCompany mod config file and custom resolution modifier.
+- [Sligilli](https://thunderstore.io/c/lethal-company/p/Sligili/) - Making the HDLethalCompany Mod.
+- [BepInEx](https://github.com/BepInEx/) - Making mods posible.
